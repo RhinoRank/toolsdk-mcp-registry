@@ -12,9 +12,7 @@
       "url": "https://app.rhinorank.io/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "mcp"
-        ]
+        "scopes": ["mcp"]
       }
     }
   ]
